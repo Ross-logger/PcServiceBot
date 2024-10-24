@@ -1,6 +1,6 @@
 # PcServiceBot 🤖🛠️
 
-**PcServiceBot** is a freelance bot designed to streamline the process of handling PC repair requests. This bot receives repair requests from users and forwards them to a designated service group, making it easier for service providers to manage and respond to customer requests. Built with **Python**, the bot features a simple yet effective architecture for small to medium-sized businesses offering repair services.
+**PcServiceBot** is a freelance bot designed to streamline the process of handling PC repair requests. This bot receives repair requests from users and forwards them to a designated service group, making it easier for service providers to manage and respond to customer requests. Built with **Python's aiogram asynchronous library**, the bot features an effective architecture for small to medium-sized businesses offering repair services.
 
 ## Key Features 🔑✨
 
