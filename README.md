@@ -13,4 +13,4 @@
 - **Python**: The programming language used to build the bot.
 - **Telegram Bot API**: The bot interacts with users via the Telegram platform.
 - **Docker**: Used for containerization, ensuring the bot runs consistently across different environments.
-- **SQLite**: Embedded database for storing basic request data.
+- **PostgreSQL**: Database for storing request data.
